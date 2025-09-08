@@ -167,8 +167,7 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b0f781fc9cc3de3d",
