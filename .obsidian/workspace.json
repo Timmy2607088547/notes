@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "33381fbdb1b52952",
@@ -167,14 +167,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "43345263ab755326",
+  "active": "b0f781fc9cc3de3d",
   "lastOpenFiles": [
+    "Pasted image 20250908213316.png",
+    "每日任务/2025-09-08.md",
     "每日任务",
     "未命名.base",
-    "每日任务/2025-09-08.md",
     "mysql"
   ]
 }
