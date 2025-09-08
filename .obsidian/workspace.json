@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具配置/未命名.md",
+                "file": "工具配置/Obsidian&PicGo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Obsidian&PicGo"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "2025-09-08 的大纲"
             }
+          },
+          {
+            "id": "bb589c9c6e4dea5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +183,7 @@
   "active": "b0f781fc9cc3de3d",
   "lastOpenFiles": [
     "每日任务/2025-09-08.md",
-    "工具配置/未命名.md",
+    "工具配置/Obsidian&PicGo.md",
     "工具配置",
     "Pasted image 20250908214542.png",
     "Pasted image 20250908213316.png",
