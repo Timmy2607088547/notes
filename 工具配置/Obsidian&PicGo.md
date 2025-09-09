@@ -6,6 +6,10 @@
 ![image.png](https://zmnotes.oss-cn-beijing.aliyuncs.com/notes/20250908231129128.png)
 
 配置好后即可使用
+**另外注意事项：**
+进入github设置，关闭安全设置
+![image.png](https://zmnotes.oss-cn-beijing.aliyuncs.com/notes/20250909001538093.png)
+
 
 
 
