@@ -120,6 +120,10 @@ Broker采用master和slave交叉部署：
 > ## 2、启动 broker
 > nohup sh /data/soft/rocketmq-all-master/bin/mqbroker -c /data/soft/rocketmq-all-master/conf/broker-master-2.properties &
 > ## 3、启动 console
+> 注意mq启动的几台机器需要开启密码登录
+> sudo cat /etc/ssh/sshd_config | grep -i PasswordAuthentication
+> 以此通过mqcloud的初始化检验
+> sudo systemctl reload sshd
 > ```
 
 ### 数据库初始化
