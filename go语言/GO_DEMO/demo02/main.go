@@ -17,7 +17,29 @@ func main() {
 	// a := 10
 	// print(a)
 
-	var name string
-	fmt.Print(name)
+	// var name string
+	// fmt.Print(name)
+	//  //为空
+	//一次声明多个变量
+
+	// var a1, a2 string //同一类型
+	// a1 = "a"
+	// a2 = "b"
+	// fmt.Println(a1, a2)
+
+	// var (
+	// 	username string
+	// 	num      int
+	// )
+	// username = "xl"
+	// num = 1
+	// fmt.Println(username, num)
+
+	//短变量声明
+	//var username = "张三"
+	username := "张三"
+	fmt.Print(username)
 
 }
+
+
